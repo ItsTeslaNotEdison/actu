@@ -1,0 +1,14 @@
+C:\Raviteja\AccidentalCitizen\Master\websrc\Actuarialvaluations\Actuarialvaluations.Models.Scaffold\bin\Debug\netcoreapp2.2\Actuarialvaluations.Models.Scaffold.deps.json
+C:\Raviteja\AccidentalCitizen\Master\websrc\Actuarialvaluations\Actuarialvaluations.Models.Scaffold\bin\Debug\netcoreapp2.2\Actuarialvaluations.Models.Scaffold.runtimeconfig.json
+C:\Raviteja\AccidentalCitizen\Master\websrc\Actuarialvaluations\Actuarialvaluations.Models.Scaffold\bin\Debug\netcoreapp2.2\Actuarialvaluations.Models.Scaffold.runtimeconfig.dev.json
+C:\Raviteja\AccidentalCitizen\Master\websrc\Actuarialvaluations\Actuarialvaluations.Models.Scaffold\bin\Debug\netcoreapp2.2\Actuarialvaluations.Models.Scaffold.dll
+C:\Raviteja\AccidentalCitizen\Master\websrc\Actuarialvaluations\Actuarialvaluations.Models.Scaffold\bin\Debug\netcoreapp2.2\Actuarialvaluations.Models.Scaffold.pdb
+C:\Raviteja\AccidentalCitizen\Master\websrc\Actuarialvaluations\Actuarialvaluations.Models.Scaffold\bin\Debug\netcoreapp2.2\Actuarialvaluations.Models.dll
+C:\Raviteja\AccidentalCitizen\Master\websrc\Actuarialvaluations\Actuarialvaluations.Models.Scaffold\bin\Debug\netcoreapp2.2\Actuarialvaluations.Models.pdb
+C:\Raviteja\AccidentalCitizen\Master\websrc\Actuarialvaluations\Actuarialvaluations.Models.Scaffold\obj\Debug\netcoreapp2.2\Actuarialvaluations.Models.Scaffold.csprojAssemblyReference.cache
+C:\Raviteja\AccidentalCitizen\Master\websrc\Actuarialvaluations\Actuarialvaluations.Models.Scaffold\obj\Debug\netcoreapp2.2\Actuarialvaluations.Models.Scaffold.csproj.CoreCompileInputs.cache
+C:\Raviteja\AccidentalCitizen\Master\websrc\Actuarialvaluations\Actuarialvaluations.Models.Scaffold\obj\Debug\netcoreapp2.2\Actuarialvaluations.Models.Scaffold.AssemblyInfoInputs.cache
+C:\Raviteja\AccidentalCitizen\Master\websrc\Actuarialvaluations\Actuarialvaluations.Models.Scaffold\obj\Debug\netcoreapp2.2\Actuarialvaluations.Models.Scaffold.AssemblyInfo.cs
+C:\Raviteja\AccidentalCitizen\Master\websrc\Actuarialvaluations\Actuarialvaluations.Models.Scaffold\obj\Debug\netcoreapp2.2\Actuarialvaluations.Models.Scaffold.csproj.CopyComplete
+C:\Raviteja\AccidentalCitizen\Master\websrc\Actuarialvaluations\Actuarialvaluations.Models.Scaffold\obj\Debug\netcoreapp2.2\Actuarialvaluations.Models.Scaffold.dll
+C:\Raviteja\AccidentalCitizen\Master\websrc\Actuarialvaluations\Actuarialvaluations.Models.Scaffold\obj\Debug\netcoreapp2.2\Actuarialvaluations.Models.Scaffold.pdb

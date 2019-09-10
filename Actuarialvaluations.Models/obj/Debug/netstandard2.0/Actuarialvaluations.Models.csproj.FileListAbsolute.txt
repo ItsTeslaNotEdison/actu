@@ -1,0 +1,9 @@
+C:\Raviteja\AccidentalCitizen\Master\websrc\Actuarialvaluations\Actuarialvaluations.Models\bin\Debug\netstandard2.0\Actuarialvaluations.Models.deps.json
+C:\Raviteja\AccidentalCitizen\Master\websrc\Actuarialvaluations\Actuarialvaluations.Models\bin\Debug\netstandard2.0\Actuarialvaluations.Models.dll
+C:\Raviteja\AccidentalCitizen\Master\websrc\Actuarialvaluations\Actuarialvaluations.Models\bin\Debug\netstandard2.0\Actuarialvaluations.Models.pdb
+C:\Raviteja\AccidentalCitizen\Master\websrc\Actuarialvaluations\Actuarialvaluations.Models\obj\Debug\netstandard2.0\Actuarialvaluations.Models.csprojAssemblyReference.cache
+C:\Raviteja\AccidentalCitizen\Master\websrc\Actuarialvaluations\Actuarialvaluations.Models\obj\Debug\netstandard2.0\Actuarialvaluations.Models.csproj.CoreCompileInputs.cache
+C:\Raviteja\AccidentalCitizen\Master\websrc\Actuarialvaluations\Actuarialvaluations.Models\obj\Debug\netstandard2.0\Actuarialvaluations.Models.AssemblyInfoInputs.cache
+C:\Raviteja\AccidentalCitizen\Master\websrc\Actuarialvaluations\Actuarialvaluations.Models\obj\Debug\netstandard2.0\Actuarialvaluations.Models.AssemblyInfo.cs
+C:\Raviteja\AccidentalCitizen\Master\websrc\Actuarialvaluations\Actuarialvaluations.Models\obj\Debug\netstandard2.0\Actuarialvaluations.Models.dll
+C:\Raviteja\AccidentalCitizen\Master\websrc\Actuarialvaluations\Actuarialvaluations.Models\obj\Debug\netstandard2.0\Actuarialvaluations.Models.pdb
