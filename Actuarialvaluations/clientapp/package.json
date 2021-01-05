@@ -12,7 +12,7 @@
   "dependencies": {
     "@types/node": "^11.9.4",
     "@types/vuelidate": "^0.7.4",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "bootstrap-datepicker": "^1.8.0",
     "bootstrap-vue": "^2.0.0-rc.12",
